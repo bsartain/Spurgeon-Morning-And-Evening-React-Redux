@@ -1,4 +1,4 @@
-##Charles Spurgeon Morning & Evening Devotion
+## Charles Spurgeon's Morning & Evening Devotion
 
 This simple project was built with React/Redux/ReactRouter. It contains all 365 days of his famous morning and evening devotionals to strengthen your faith. 
 
