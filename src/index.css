@@ -1,0 +1,159 @@
+body{
+    font-size:18px;
+    background: #323232;
+    color: #ccc;
+    font-family: 'Cardo', serif;
+    font-size: 20px;
+}
+
+h1, h2,h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+a{
+    color: #fff;
+    margin-right: 25px;
+}
+
+a:hover{
+    color: #ccc
+}
+
+.navbar li a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #646464;
+    font-size: 14px;
+}
+
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #646464!important;
+}
+
+h5{
+    margin: 10px 0px 30px 0px!important;
+}
+
+.devo-container{
+    margin-bottom: 50px;
+}
+
+.imageDiv{
+    height: 600px;
+    width: 100%;
+    background: url('cs.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-bottom: 50px;
+}
+
+.imageDiv > h1{
+    text-align: right;
+    width: 100%;
+    padding-right:50px;
+    color: #f2f2f2;
+}
+
+
+
+.devo{
+    border: 1px solid rgb(65, 65, 65);
+    border-radius: 5px;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.devo:hover{
+    background: #424242;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 130px;
+    margin-bottom: 80px;
+}
+
+.spurgeon-thumb{
+    width: 35px;
+    margin-right: 10px
+}
+
+.hr-line{
+    border-top: 1px solid rgb(82, 82, 82)!important;
+    width: 110px
+}
+
+.devoTime{
+    font-size: 15px
+}
+
+input{
+    background: inherit;
+    color: #f2f2f2;
+    font-size: 16px;
+    border: 2px solid #ccc;
+}
+
+.nav-item{
+    margin-top: 20px;
+    border-bottom: 1px solid;
+    padding-bottom: 20px;
+}
+
+.nav-item:last-child{
+    border-bottom: none;
+}
+
+@media only screen and (max-width: 767px) {
+    .imageDiv > h1{
+        text-align: center;
+        padding-right: 0;
+    }
+    .imageDiv{
+        height: 400px;
+    }
+    input{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .nav-item{
+        border-bottom: none;
+    }
+}
+
+@media only screen and (max-width: 361px) {
+    .spurgeon-thumb{
+        display: none;
+    }
+    .navbar-brand{
+        font-size: 12px;
+    }
+}
+
+input{
+    padding: 5px;
+    border: 1px solid rgb(150, 150, 150);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    margin: 10px 0px;
+}
+
+
