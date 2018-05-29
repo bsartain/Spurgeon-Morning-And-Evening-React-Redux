@@ -1,3 +1,11 @@
+##Charles Spurgeon Morning & Evening Devotion
+
+This simple project was built with React/Redux/ReactRouter. It contains all 365 days of his famous morning and evening devotionals to strengthen your faith. 
+
+create-react-app was used in this project. For more info see below.
+
+To use simply clone the repository, run npm install then npm start. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
