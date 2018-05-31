@@ -6,15 +6,16 @@ import SpurgeonThumb from '../cs-thumb.png';
 export default class Links extends Component {
   render() {
     return (
-        <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light">
-            <img src={SpurgeonThumb} className="spurgeon-thumb" alt="Charles Spurgon Morning and Evening Meditations"/>
-            <span className="navbar-brand">Spurgeon Daily Meditations</span>
-            <button className="navbar-toggler mr-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <span className="navbar-brand">
+                <img src={SpurgeonThumb} className="spurgeon-thumb" alt="Charles Spurgon Morning and Evening Meditations"/>Spurgeon Daily Meditations
+            </span>
+            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
 
-            <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul className="navbar-nav ml-auto">
+            <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
+                <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li className="nav-item active">
                         <Link to={'/'}>Todays Devotion</Link>
                     </li>
@@ -26,7 +27,6 @@ export default class Links extends Component {
                     </li>
                 </ul>
             </div>
-            <hr/>
         </nav>
 
     )

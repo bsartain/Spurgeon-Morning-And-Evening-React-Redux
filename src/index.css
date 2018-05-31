@@ -29,7 +29,7 @@ a:hover{
 
 .navbar-brand{
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
     color: #646464!important;
 }
@@ -85,7 +85,7 @@ h5{
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 130px;
+    margin-top: 50px;
     margin-bottom: 80px;
 }
 
@@ -140,9 +140,6 @@ input{
 }
 
 @media only screen and (max-width: 361px) {
-    .spurgeon-thumb{
-        display: none;
-    }
     .navbar-brand{
         font-size: 12px;
     }
