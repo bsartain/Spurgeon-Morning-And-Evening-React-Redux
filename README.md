@@ -2,7 +2,7 @@
 
 This project was built with React/Redux/ReactRouter. It contains all 365 days of Charles Haddon Spurgeon's famous morning and evening devotionals to strengthen your faith. 
 
-[demo](http://brettsartain.org/spurgeon/#/)
+[Demo](http://brettsartain.org/spurgeon/#/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
