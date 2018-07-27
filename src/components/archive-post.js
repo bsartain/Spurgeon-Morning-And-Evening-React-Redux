@@ -32,7 +32,6 @@ class ArchivePost extends Component {
 }
 
 const mapStateToProps = (state) => {
-  console.log('SINGLE', state)
   return{
     singleArchivePost: state.single
   }

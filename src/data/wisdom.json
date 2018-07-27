@@ -1,0 +1,2192 @@
+[
+    {
+        "date": "1/1",
+        "psalms": "Psalm 1",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "1/2",
+        "psalms": "Psalm 2",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "1/3",
+        "psalms": "Psalm 3",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "1/4",
+        "psalms": "Psalm 4",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "1/5",
+        "psalms": "Psalm 5",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "1/6",
+        "psalms": "Psalm 6",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "1/7",
+        "psalms": "Psalm 7",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "1/8",
+        "psalms": "Psalm 8",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "1/9",
+        "psalms": "Psalm 9",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "1/10",
+        "psalms": "Psalm 10",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "1/11",
+        "psalms": "Psalm 11",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "1/12",
+        "psalms": "Psalm 12",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "1/13",
+        "psalms": "Psalm 13",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "1/14",
+        "psalms": "Psalm 14",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "1/15",
+        "psalms": "Psalm 15",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "1/16",
+        "psalms": "Psalm 16",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "1/17",
+        "psalms": "Psalm 17",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "1/18",
+        "psalms": "Psalm 18",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "1/19",
+        "psalms": "Psalm 19",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "1/20",
+        "psalms": "Psalm 20",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "1/21",
+        "psalms": "Psalm 21",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "1/22",
+        "psalms": "Psalm 22",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "1/23",
+        "psalms": "Psalm 23",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "1/24",
+        "psalms": "Psalm 24",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "1/25",
+        "psalms": "Psalm 25",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "1/26",
+        "psalms": "Psalm 26",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "1/27",
+        "psalms": "Psalm 27",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "1/28",
+        "psalms": "Psalm 28",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "1/29",
+        "psalms": "Psalm 29",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "1/30",
+        "psalms": "Psalm 30",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "1/31",
+        "psalms": "Psalm 31",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "2/1",
+        "psalms": "Psalm 32",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "2/2",
+        "psalms": "Psalm 33",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "2/3",
+        "psalms": "Psalm 34",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "2/4",
+        "psalms": "Psalm 35",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "2/5",
+        "psalms": "Psalm 36",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "2/6",
+        "psalms": "Psalm 37",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "2/7",
+        "psalms": "Psalm 38",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "2/8",
+        "psalms": "Psalm 39",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "2/9",
+        "psalms": "Psalm 40",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "2/10",
+        "psalms": "Psalm 41",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "2/11",
+        "psalms": "Psalm 42",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "2/12",
+        "psalms": "Psalm 43",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "2/13",
+        "psalms": "Psalm 44",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "2/14",
+        "psalms": "Psalm 45",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "2/15",
+        "psalms": "Psalm 46",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "2/16",
+        "psalms": "Psalm 47",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "2/17",
+        "psalms": "Psalm 48",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "2/18",
+        "psalms": "Psalm 49",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "2/19",
+        "psalms": "Psalm 50",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "2/20",
+        "psalms": "Psalm 51",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "2/21",
+        "psalms": "Psalm 52",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "2/22",
+        "psalms": "Psalm 53",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "2/23",
+        "psalms": "Psalm 54",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "2/24",
+        "psalms": "Psalm 55",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "2/25",
+        "psalms": "Psalm 56",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "2/26",
+        "psalms": "Psalm 57",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "2/27",
+        "psalms": "Psalm 58",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "2/28",
+        "psalms": "Psalm 59",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "3/1",
+        "psalms": "Psalm 60",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "3/2",
+        "psalms": "Psalm 61",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "3/3",
+        "psalms": "Psalm 62",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "3/4",
+        "psalms": "Psalm 63",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "3/5",
+        "psalms": "Psalm 64",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "3/6",
+        "psalms": "Psalm 65",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "3/7",
+        "psalms": "Psalm 66",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "3/8",
+        "psalms": "Psalm 67",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "3/9",
+        "psalms": "Psalm 68",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "3/10",
+        "psalms": "Psalm 69",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "3/11",
+        "psalms": "Psalm 70",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "3/12",
+        "psalms": "Psalm 71",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "3/13",
+        "psalms": "Psalm 72",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "3/14",
+        "psalms": "Psalm 73",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "3/15",
+        "psalms": "Psalm 74",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "3/16",
+        "psalms": "Psalm 75",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "3/17",
+        "psalms": "Psalm 76",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "3/18",
+        "psalms": "Psalm 77",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "3/19",
+        "psalms": "Psalm 78",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "3/20",
+        "psalms": "Psalm 79",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "3/21",
+        "psalms": "Psalm 80",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "3/22",
+        "psalms": "Psalm 81",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "3/23",
+        "psalms": "Psalm 82",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "3/24",
+        "psalms": "Psalm 83",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "3/25",
+        "psalms": "Psalm 84",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "3/26",
+        "psalms": "Psalm 85",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "3/27",
+        "psalms": "Psalm 86",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "3/28",
+        "psalms": "Psalm 87",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "3/29",
+        "psalms": "Psalm 88",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "3/30",
+        "psalms": "Psalm 89",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "3/31",
+        "psalms": "Psalm 90",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "4/1",
+        "psalms": "Psalm 91",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "4/2",
+        "psalms": "Psalm 92",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "4/3",
+        "psalms": "Psalm 93",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "4/4",
+        "psalms": "Psalm 94",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "4/5",
+        "psalms": "Psalm 95",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "4/6",
+        "psalms": "Psalm 96",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "4/7",
+        "psalms": "Psalm 97",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "4/8",
+        "psalms": "Psalm 98",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "4/9",
+        "psalms": "Psalm 99",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "4/10",
+        "psalms": "Psalm 100",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "4/11",
+        "psalms": "Psalm 101",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "4/12",
+        "psalms": "Psalm 102",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "4/13",
+        "psalms": "Psalm 103",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "4/14",
+        "psalms": "Psalm 104",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "4/15",
+        "psalms": "Psalm 105",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "4/16",
+        "psalms": "Psalm 106",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "4/17",
+        "psalms": "Psalm 107",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "4/18",
+        "psalms": "Psalm 108",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "4/19",
+        "psalms": "Psalm 109",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "4/20",
+        "psalms": "Psalm 110",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "4/21",
+        "psalms": "Psalm 111",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "4/22",
+        "psalms": "Psalm 112",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "4/23",
+        "psalms": "Psalm 113",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "4/24",
+        "psalms": "Psalm 114",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "4/25",
+        "psalms": "Psalm 115",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "4/26",
+        "psalms": "Psalm 116",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "4/27",
+        "psalms": "Psalm 117",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "4/28",
+        "psalms": "Psalm 118",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "4/29",
+        "psalms": "Psalm 119",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "4/30",
+        "psalms": "Psalm 120",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "5/1",
+        "psalms": "Psalm 121",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "5/2",
+        "psalms": "Psalm 122",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "5/3",
+        "psalms": "Psalm 123",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "5/4",
+        "psalms": "Psalm 124",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "5/5",
+        "psalms": "Psalm 125",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "5/6",
+        "psalms": "Psalm 126",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "5/7",
+        "psalms": "Psalm 127",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "5/8",
+        "psalms": "Psalm 128",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "5/9",
+        "psalms": "Psalm 129",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "5/10",
+        "psalms": "Psalm 130",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "5/11",
+        "psalms": "Psalm 131",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "5/12",
+        "psalms": "Psalm 132",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "5/13",
+        "psalms": "Psalm 133",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "5/14",
+        "psalms": "Psalm 134",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "5/15",
+        "psalms": "Psalm 135",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "5/16",
+        "psalms": "Psalm 136",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "5/17",
+        "psalms": "Psalm 137",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "5/18",
+        "psalms": "Psalm 138",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "5/19",
+        "psalms": "Psalm 139",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "5/20",
+        "psalms": "Psalm 140",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "5/21",
+        "psalms": "Psalm 141",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "5/22",
+        "psalms": "Psalm 142",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "5/23",
+        "psalms": "Psalm 143",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "5/24",
+        "psalms": "Psalm 144",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "5/25",
+        "psalms": "Psalm 145",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "5/26",
+        "psalms": "Psalm 146",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "5/27",
+        "psalms": "Psalm 147",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "5/28",
+        "psalms": "Psalm 148",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "5/29",
+        "psalms": "Psalm 149",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "5/30",
+        "psalms": "Psalm 150",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "5/31",
+        "psalms": "Psalm 1",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "6/1",
+        "psalms": "Psalm 2",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "6/2",
+        "psalms": "Psalm 3",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "6/3",
+        "psalms": "Psalm 4",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "6/4",
+        "psalms": "Psalm 5",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "6/5",
+        "psalms": "Psalm 6",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "6/6",
+        "psalms": "Psalm 7",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "6/7",
+        "psalms": "Psalm 8",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "6/8",
+        "psalms": "Psalm 9",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "6/9",
+        "psalms": "Psalm 10",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "6/10",
+        "psalms": "Psalm 11",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "6/11",
+        "psalms": "Psalm 12",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "6/12",
+        "psalms": "Psalm 13",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "6/13",
+        "psalms": "Psalm 14",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "6/14",
+        "psalms": "Psalm 15",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "6/15",
+        "psalms": "Psalm 16",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "6/16",
+        "psalms": "Psalm 17",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "6/17",
+        "psalms": "Psalm 18",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "6/18",
+        "psalms": "Psalm 19",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "6/19",
+        "psalms": "Psalm 20",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "6/20",
+        "psalms": "Psalm 21",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "6/21",
+        "psalms": "Psalm 22",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "6/22",
+        "psalms": "Psalm 23",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "6/23",
+        "psalms": "Psalm 24",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "6/24",
+        "psalms": "Psalm 25",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "6/25",
+        "psalms": "Psalm 26",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "6/26",
+        "psalms": "Psalm 27",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "6/27",
+        "psalms": "Psalm 28",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "6/28",
+        "psalms": "Psalm 29",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "6/29",
+        "psalms": "Psalm 30",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "6/30",
+        "psalms": "Psalm 31",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "7/1",
+        "psalms": "Psalm 32",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "7/2",
+        "psalms": "Psalm 33",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "7/3",
+        "psalms": "Psalm 34",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "7/4",
+        "psalms": "Psalm 35",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "7/5",
+        "psalms": "Psalm 36",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "7/6",
+        "psalms": "Psalm 37",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "7/7",
+        "psalms": "Psalm 38",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "7/8",
+        "psalms": "Psalm 39",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "7/9",
+        "psalms": "Psalm 40",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "7/10",
+        "psalms": "Psalm 41",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "7/11",
+        "psalms": "Psalm 42",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "7/12",
+        "psalms": "Psalm 43",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "7/13",
+        "psalms": "Psalm 44",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "7/14",
+        "psalms": "Psalm 45",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "7/15",
+        "psalms": "Psalm 46",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "7/16",
+        "psalms": "Psalm 47",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "7/17",
+        "psalms": "Psalm 48",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "7/18",
+        "psalms": "Psalm 49",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "7/19",
+        "psalms": "Psalm 50",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "7/20",
+        "psalms": "Psalm 51",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "7/21",
+        "psalms": "Psalm 52",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "7/22",
+        "psalms": "Psalm 53",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "7/23",
+        "psalms": "Psalm 54",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "7/24",
+        "psalms": "Psalm 55",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "7/25",
+        "psalms": "Psalm 56",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "7/26",
+        "psalms": "Psalm 57",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "7/27",
+        "psalms": "Psalm 58",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "7/28",
+        "psalms": "Psalm 59",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "7/29",
+        "psalms": "Psalm 60",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "7/30",
+        "psalms": "Psalm 61",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "7/31",
+        "psalms": "Psalm 62",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "8/1",
+        "psalms": "Psalm 63",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "8/2",
+        "psalms": "Psalm 64",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "8/3",
+        "psalms": "Psalm 65",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "8/4",
+        "psalms": "Psalm 66",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "8/5",
+        "psalms": "Psalm 67",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "8/6",
+        "psalms": "Psalm 68",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "8/7",
+        "psalms": "Psalm 69",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "8/8",
+        "psalms": "Psalm 70",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "8/9",
+        "psalms": "Psalm 71",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "8/10",
+        "psalms": "Psalm 72",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "8/11",
+        "psalms": "Psalm 73",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "8/12",
+        "psalms": "Psalm 74",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "8/13",
+        "psalms": "Psalm 75",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "8/14",
+        "psalms": "Psalm 76",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "8/15",
+        "psalms": "Psalm 77",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "8/16",
+        "psalms": "Psalm 78",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "8/17",
+        "psalms": "Psalm 79",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "8/18",
+        "psalms": "Psalm 80",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "8/19",
+        "psalms": "Psalm 81",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "8/20",
+        "psalms": "Psalm 82",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "8/21",
+        "psalms": "Psalm 83",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "8/22",
+        "psalms": "Psalm 84",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "8/23",
+        "psalms": "Psalm 85",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "8/24",
+        "psalms": "Psalm 86",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "8/25",
+        "psalms": "Psalm 87",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "8/26",
+        "psalms": "Psalm 88",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "8/27",
+        "psalms": "Psalm 89",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "8/28",
+        "psalms": "Psalm 90",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "8/29",
+        "psalms": "Psalm 91",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "8/30",
+        "psalms": "Psalm 92",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "8/31",
+        "psalms": "Psalm 93",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "9/1",
+        "psalms": "Psalm 94",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "9/2",
+        "psalms": "Psalm 95",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "9/3",
+        "psalms": "Psalm 96",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "9/4",
+        "psalms": "Psalm 97",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "9/5",
+        "psalms": "Psalm 98",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "9/6",
+        "psalms": "Psalm 99",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "9/7",
+        "psalms": "Psalm 100",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "9/8",
+        "psalms": "Psalm 101",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "9/9",
+        "psalms": "Psalm 102",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "9/10",
+        "psalms": "Psalm 103",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "9/11",
+        "psalms": "Psalm 104",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "9/12",
+        "psalms": "Psalm 105",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "9/13",
+        "psalms": "Psalm 106",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "9/14",
+        "psalms": "Psalm 107",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "9/15",
+        "psalms": "Psalm 108",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "9/16",
+        "psalms": "Psalm 109",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "9/17",
+        "psalms": "Psalm 110",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "9/18",
+        "psalms": "Psalm 111",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "9/19",
+        "psalms": "Psalm 112",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "9/20",
+        "psalms": "Psalm 113",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "9/21",
+        "psalms": "Psalm 114",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "9/22",
+        "psalms": "Psalm 115",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "9/23",
+        "psalms": "Psalm 116",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "9/24",
+        "psalms": "Psalm 117",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "9/25",
+        "psalms": "Psalm 118",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "9/26",
+        "psalms": "Psalm 119",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "9/27",
+        "psalms": "Psalm 120",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "9/28",
+        "psalms": "Psalm 121",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "9/29",
+        "psalms": "Psalm 122",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "9/30",
+        "psalms": "Psalm 123",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "10/1",
+        "psalms": "Psalm 124",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "10/2",
+        "psalms": "Psalm 125",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "10/3",
+        "psalms": "Psalm 126",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "10/4",
+        "psalms": "Psalm 127",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "10/5",
+        "psalms": "Psalm 128",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "10/6",
+        "psalms": "Psalm 129",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "10/7",
+        "psalms": "Psalm 130",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "10/8",
+        "psalms": "Psalm 131",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "10/9",
+        "psalms": "Psalm 132",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "10/10",
+        "psalms": "Psalm 133",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "10/11",
+        "psalms": "Psalm 134",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "10/12",
+        "psalms": "Psalm 135",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "10/13",
+        "psalms": "Psalm 136",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "10/14",
+        "psalms": "Psalm 137",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "10/15",
+        "psalms": "Psalm 138",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "10/16",
+        "psalms": "Psalm 139",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "10/17",
+        "psalms": "Psalm 140",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "10/18",
+        "psalms": "Psalm 141",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "10/19",
+        "psalms": "Psalm 142",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "10/20",
+        "psalms": "Psalm 143",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "10/21",
+        "psalms": "Psalm 144",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "10/22",
+        "psalms": "Psalm 145",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "10/23",
+        "psalms": "Psalm 146",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "10/24",
+        "psalms": "Psalm 147",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "10/25",
+        "psalms": "Psalm 148",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "10/26",
+        "psalms": "Psalm 149",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "10/27",
+        "psalms": "Psalm 150",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "10/28",
+        "psalms": "Psalm 1",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "10/29",
+        "psalms": "Psalm 2",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "10/30",
+        "psalms": "Psalm 3",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "10/31",
+        "psalms": "Psalm 4",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "11/1",
+        "psalms": "Psalm 5",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "11/2",
+        "psalms": "Psalm 6",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "11/3",
+        "psalms": "Psalm 7",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "11/4",
+        "psalms": "Psalm 8",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "11/5",
+        "psalms": "Psalm 9",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "11/6",
+        "psalms": "Psalm 10",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "11/7",
+        "psalms": "Psalm 11",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "11/8",
+        "psalms": "Psalm 12",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "11/9",
+        "psalms": "Psalm 13",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "11/10",
+        "psalms": "Psalm 14",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "11/11",
+        "psalms": "Psalm 15",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "11/12",
+        "psalms": "Psalm 16",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "11/13",
+        "psalms": "Psalm 17",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "11/14",
+        "psalms": "Psalm 18",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "11/15",
+        "psalms": "Psalm 19",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "11/16",
+        "psalms": "Psalm 20",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "11/17",
+        "psalms": "Psalm 21",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "11/18",
+        "psalms": "Psalm 22",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "11/19",
+        "psalms": "Psalm 23",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "11/20",
+        "psalms": "Psalm 24",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "11/21",
+        "psalms": "Psalm 25",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "11/22",
+        "psalms": "Psalm 26",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "11/23",
+        "psalms": "Psalm 27",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "11/24",
+        "psalms": "Psalm 28",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "11/25",
+        "psalms": "Psalm 29",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "11/26",
+        "psalms": "Psalm 30",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "11/27",
+        "psalms": "Psalm 31",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "11/28",
+        "psalms": "Psalm 32",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "11/29",
+        "psalms": "Psalm 33",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "11/30",
+        "psalms": "Psalm 34",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "12/1",
+        "psalms": "Psalm 35",
+        "proverbs": "Proverbs 25",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "12/2",
+        "psalms": "Psalm 36",
+        "proverbs": "Proverbs 26",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "12/3",
+        "psalms": "Psalm 37",
+        "proverbs": "Proverbs 27",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "12/4",
+        "psalms": "Psalm 38",
+        "proverbs": "Proverbs 28",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "12/5",
+        "psalms": "Psalm 39",
+        "proverbs": "Proverbs 29",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "12/6",
+        "psalms": "Psalm 40",
+        "proverbs": "Proverbs 30",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "12/7",
+        "psalms": "Psalm 41",
+        "proverbs": "Proverbs 31",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "12/8",
+        "psalms": "Psalm 42",
+        "proverbs": "Proverbs 1",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "12/9",
+        "psalms": "Psalm 43",
+        "proverbs": "Proverbs 2",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "12/10",
+        "psalms": "Psalm 44",
+        "proverbs": "Proverbs 3",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "12/11",
+        "psalms": "Psalm 45",
+        "proverbs": "Proverbs 4",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "12/12",
+        "psalms": "Psalm 46",
+        "proverbs": "Proverbs 5",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "12/13",
+        "psalms": "Psalm 47",
+        "proverbs": "Proverbs 6",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "12/14",
+        "psalms": "Psalm 48",
+        "proverbs": "Proverbs 7",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "12/15",
+        "psalms": "Psalm 49",
+        "proverbs": "Proverbs 8",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "12/16",
+        "psalms": "Psalm 50",
+        "proverbs": "Proverbs 9",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "12/17",
+        "psalms": "Psalm 51",
+        "proverbs": "Proverbs 10",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "12/18",
+        "psalms": "Psalm 52",
+        "proverbs": "Proverbs 11",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "12/19",
+        "psalms": "Psalm 53",
+        "proverbs": "Proverbs 12",
+        "ecclesiastes": "Ecclesiastes 5"
+    },
+    {
+        "date": "12/20",
+        "psalms": "Psalm 54",
+        "proverbs": "Proverbs 13",
+        "ecclesiastes": "Ecclesiastes 6"
+    },
+    {
+        "date": "12/21",
+        "psalms": "Psalm 55",
+        "proverbs": "Proverbs 14",
+        "ecclesiastes": "Ecclesiastes 7"
+    },
+    {
+        "date": "12/22",
+        "psalms": "Psalm 56",
+        "proverbs": "Proverbs 15",
+        "ecclesiastes": "Ecclesiastes 8"
+    },
+    {
+        "date": "12/23",
+        "psalms": "Psalm 57",
+        "proverbs": "Proverbs 16",
+        "ecclesiastes": "Ecclesiastes 9"
+    },
+    {
+        "date": "12/24",
+        "psalms": "Psalm 58",
+        "proverbs": "Proverbs 17",
+        "ecclesiastes": "Ecclesiastes 10"
+    },
+    {
+        "date": "12/25",
+        "psalms": "Psalm 59",
+        "proverbs": "Proverbs 18",
+        "ecclesiastes": "Ecclesiastes 11"
+    },
+    {
+        "date": "12/26",
+        "psalms": "Psalm 60",
+        "proverbs": "Proverbs 19",
+        "ecclesiastes": "Ecclesiastes 12"
+    },
+    {
+        "date": "12/27",
+        "psalms": "Psalm 61",
+        "proverbs": "Proverbs 20",
+        "ecclesiastes": "Ecclesiastes 1"
+    },
+    {
+        "date": "12/28",
+        "psalms": "Psalm 62",
+        "proverbs": "Proverbs 21",
+        "ecclesiastes": "Ecclesiastes 2"
+    },
+    {
+        "date": "12/29",
+        "psalms": "Psalm 63",
+        "proverbs": "Proverbs 22",
+        "ecclesiastes": "Ecclesiastes 3"
+    },
+    {
+        "date": "12/30",
+        "psalms": "Psalm 64",
+        "proverbs": "Proverbs 23",
+        "ecclesiastes": "Ecclesiastes 4"
+    },
+    {
+        "date": "12/31",
+        "psalms": "Psalm 65",
+        "proverbs": "Proverbs 24",
+        "ecclesiastes": "Ecclesiastes 5"
+    }
+]

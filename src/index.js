@@ -13,7 +13,7 @@ import About from './components/about';
 import Archive from './components/archive';
 import Links from './components/links';
 import ArchivePost from './components/archive-post';
-import Meta from './components/meta';
+import Wisdom from './components/wisdom';
 
 const createStoreWithMiddleware = applyMiddleware(promise)(createStore);
 
@@ -21,12 +21,12 @@ ReactDOM.render(
     <Provider store={createStoreWithMiddleware(reducers)}>
         <HashRouter>
         <div className='top-level'>
-            <Meta/>
             <Links />
             <div className="container">
                 <Switch>
                     <Route exact path="/" component={App} />
                     <Route path="/archive" component={Archive} />
+                    <Route path="/wisdom" component={Wisdom} />
                     <Route path="/archive-post/:id" component={ArchivePost} />
                     <Route path="/about" component={About} />
                 </Switch>

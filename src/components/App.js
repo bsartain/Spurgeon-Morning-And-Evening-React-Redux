@@ -20,12 +20,14 @@ class App extends Component {
       today = mm + '/' + dd;
 
       if(post.date === today){
+        console.log('POST', post)
         return(
-          <div key={post.id} className="devo-container" dangerouslySetInnerHTML={{__html: post.body}}></div>
+          <div key={post.id} >
+            <div className="devo-container" dangerouslySetInnerHTML={{__html: post.body}}></div>
+            <div className="keyVerse" dangerouslySetInnerHTML={{__html: post.keyverse}}></div>
+          </div>
         )
       }
-
-
     });
   }
 

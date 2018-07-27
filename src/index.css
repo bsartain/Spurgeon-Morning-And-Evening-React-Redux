@@ -1,7 +1,7 @@
 body{
     font-size:18px;
     background: #323232;
-    color: #ccc;
+    color: #9a9a9a;
     font-family: 'Cardo', serif;
     font-size: 20px;
 }
@@ -151,6 +151,26 @@ input{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     margin: 10px 0px;
+}
+
+.wisdom-container{
+    margin: auto;
+    max-width: 600px;
+}
+
+.divider-wisdom-container{
+    display: flex;
+    justify-content: center;
+}
+
+.divider-wisdom{
+    border: 1px solid #6d6d6d;
+    margin: 80px 0px;
+    width: 250px
+}
+
+.keyVerse{
+    display: none
 }
 
 
