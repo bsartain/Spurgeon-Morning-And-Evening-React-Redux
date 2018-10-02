@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+      var OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "c7ce6357-3f2d-4966-86ca-3a13c634fb07",
+        });
+      });
+    </script>
     <link rel="canonical" href="http://brettsartain.org/spurgeon" />
     <meta name="description" id="description" content="Charles Spurgeon's uplifting messages for each day of the year will comfort and refresh you in your walk with God. Spending time with God at the start and the close of each day will bring a new joy in your life."/>
     <meta property="og:locale" content="en_US" />
@@ -59,13 +68,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script>
+      if (location.protocol != 'https:'){
+        location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+      }
       $(document).ready(function(){
 
         $('.navbar-nav>li>a').on('click', function(){
             $('.navbar-collapse').collapse('hide');
         });
-
-      })
+      }) 
     </script>
     </body>
 </html>
