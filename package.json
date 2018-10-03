@@ -5,13 +5,16 @@
   "homepage": "http://brettsartain.org/spurgeon",
   "dependencies": {
     "axios": "^0.18.0",
+    "i": "^0.3.6",
     "lodash": "^4.17.10",
+    "npm": "^6.4.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-helmet": "^5.2.0",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
+    "react-share": "^2.3.1",
     "redux": "^4.0.0",
     "redux-promise": "^0.6.0",
     "workbox-sw": "^3.6.2"

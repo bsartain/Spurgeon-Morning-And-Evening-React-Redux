@@ -173,4 +173,10 @@ input{
     display: none
 }
 
+.SocialMediaShareButton{
+    margin: -40px 0px 60px 0px;
+    display: inline-block;
+    cursor: pointer;
+}
+
 
