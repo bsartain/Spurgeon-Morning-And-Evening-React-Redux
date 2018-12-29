@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { getPosts, showArchivePost, filterPosts } from '../actions';
 import _ from 'lodash';
+import RefTagger from './RefTagger'
 
 class Archive extends Component {
   constructor(){
@@ -55,7 +56,8 @@ class Archive extends Component {
           <div className="col-md-8 text-right">
             <input onChange={this.filterArchive} placeholder=" Search..."/>
           </div>
-          {this.renderPosts()}        
+          {this.renderPosts()}  
+          <RefTagger/>      
         </div>
     )
   }

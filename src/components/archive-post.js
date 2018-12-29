@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { showPostOnLoad } from '../actions';
 import _ from 'lodash';
+import RefTagger from './RefTagger'
 
 class ArchivePost extends Component {
 
@@ -15,7 +16,10 @@ class ArchivePost extends Component {
       return _.map(this.props.singleArchivePost, post => {
         if(post.id == this.props.match.params.id){
           return (
-            <div key={post.id} dangerouslySetInnerHTML={{__html: post.body}}></div>
+            <div>
+              <div key={post.id} dangerouslySetInnerHTML={{__html: post.body}}></div>
+              <RefTagger/>
+            </div>
           )
         }
       });

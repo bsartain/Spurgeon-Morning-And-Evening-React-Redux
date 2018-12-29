@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { getPosts, showPost } from '../actions';
 import { connect } from 'react-redux';
 import _ from 'lodash';
+import RefTagger from './RefTagger'
 import {
   FacebookShareButton,
   TwitterShareButton,
@@ -49,6 +50,7 @@ class App extends Component {
       <div className="row">
         <div className="col-md-12">
           {this.showSinglePost()}
+          <RefTagger/>
         </div>      
       </div>
     );
